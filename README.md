@@ -1,7 +1,7 @@
 # ANSI-C
 Various ANSI C programs.
 
-| FILENAME       | DESCRIPTION |
+| FILE | DESCRIPTION |
 |------------|-------------|
 | [Fire Alarm](https://github.com/BroadbentT/Project-FireAlarm1) | Use of a MC68HC11F1 micro-controller and ported ANSI C computer programming language to construct a sophisticated fire alarm system. |
 - [X] Tested and working .
