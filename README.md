@@ -1,5 +1,4 @@
 # ANSI C
-Various ANSI C programs.
 
 | FILE | DESCRIPTION |
 |------------|-------------|
